@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lyrix/static/css/main.8ba7a252.chunk.css",
+    "main.js": "/lyrix/static/js/main.ce8ea683.chunk.js",
+    "main.js.map": "/lyrix/static/js/main.ce8ea683.chunk.js.map",
+    "runtime-main.js": "/lyrix/static/js/runtime-main.c43ce210.js",
+    "runtime-main.js.map": "/lyrix/static/js/runtime-main.c43ce210.js.map",
+    "static/js/2.940f6739.chunk.js": "/lyrix/static/js/2.940f6739.chunk.js",
+    "static/js/2.940f6739.chunk.js.map": "/lyrix/static/js/2.940f6739.chunk.js.map",
+    "index.html": "/lyrix/index.html",
+    "precache-manifest.dc7224d52b82c203b582d6ac9cba54b8.js": "/lyrix/precache-manifest.dc7224d52b82c203b582d6ac9cba54b8.js",
+    "service-worker.js": "/lyrix/service-worker.js",
+    "static/css/main.8ba7a252.chunk.css.map": "/lyrix/static/css/main.8ba7a252.chunk.css.map",
+    "static/js/2.940f6739.chunk.js.LICENSE.txt": "/lyrix/static/js/2.940f6739.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c43ce210.js",
+    "static/js/2.940f6739.chunk.js",
+    "static/css/main.8ba7a252.chunk.css",
+    "static/js/main.ce8ea683.chunk.js"
+  ]
+}
