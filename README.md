@@ -1,3 +1,10 @@
+Lyrics and Band Information Finder
+
+Made with ReactJs, hooks and using 2 different APIs.
+
+http://ivanlalic.github.io/lyrix
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
